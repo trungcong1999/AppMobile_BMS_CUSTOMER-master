@@ -1,0 +1,37 @@
+import 'package:equatable/equatable.dart';
+import 'package:hosco/data/error/exceptions.dart';
+import 'package:hosco/domain/entities/entity.dart';
+
+import 'commerce_image.dart';
+
+class Config extends Equatable {
+  final String id;
+  final String parentId;
+  final String name;
+  final String description;
+  final CommerceImage image;
+  final bool isCategoryContainer;
+
+  Config(
+    this.id, {
+    String parentId,
+    this.name,
+    this.description,
+    this.image,
+    bool isCategoryContainer,
+  })  : parentId = parentId ?? '0',
+        isCategoryContainer = isCategoryContainer ?? false;
+
+  @override
+  List<Object> get props => [id, parentId, name, image];
+
+  @override
+  bool get stringify => true;
+
+  @override
+  factory Config.fromEntity(Entity entity) {
+      return Config(
+        entity.id,
+      );
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "364189177793",
+    "firebase_url": "https://hsbms-34504.firebaseio.com",
+    "project_id": "hsbms-34504",
+    "storage_bucket": "hsbms-34504.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364189177793:android:6f42c1a3144c1318a40140",
+        "android_client_info": {
+          "package_name": "com.hosco.loyaltymasterpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364189177793-mnbvanlhd5pahj4heliidgo6jofmpb3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0LcSXX32ftudImm7wdvu3oYI1pMV7_2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364189177793-mnbvanlhd5pahj4heliidgo6jofmpb3d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "364189177793-2rt80kkduv7u34rs80bfqb6s3a019ke8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hosco.mdeliver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364189177793:android:3d260f8ecc1fc782a40140",
+        "android_client_info": {
+          "package_name": "com.hosco.mdeliver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364189177793-mnbvanlhd5pahj4heliidgo6jofmpb3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0LcSXX32ftudImm7wdvu3oYI1pMV7_2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364189177793-mnbvanlhd5pahj4heliidgo6jofmpb3d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "364189177793-2rt80kkduv7u34rs80bfqb6s3a019ke8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hosco.mdeliver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364189177793:android:b49c1d4c4bf882dda40140",
+        "android_client_info": {
+          "package_name": "hosco.com.masterpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364189177793-mnbvanlhd5pahj4heliidgo6jofmpb3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0LcSXX32ftudImm7wdvu3oYI1pMV7_2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364189177793-mnbvanlhd5pahj4heliidgo6jofmpb3d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "364189177793-2rt80kkduv7u34rs80bfqb6s3a019ke8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hosco.mdeliver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
